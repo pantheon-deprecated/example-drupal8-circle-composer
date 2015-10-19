@@ -1,4 +1,10 @@
-## About
+## The Current Version of This Project is Obsolete
+
+This project uses a "split core" technique to manage your Drupal 8 dependencies with Composer.  As of Drupal 8.0.0-rc1, you may add additional dependencies to your site directly using `composer require` from your Drupal Root.
+
+See: [Avoiding “Dependency Hell” with Site-Local Drush](https://pantheon.io/blog/avoiding-dependency-hell-site-local-drush)
+
+## Old Documentation
 
 This project utilizes the [pantheon-systems/circle-scripts](https://github.com/pantheon-systems/circle-scripts) project in order to achieve the following things:
 
